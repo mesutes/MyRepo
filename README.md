@@ -1,2 +1,3 @@
 # MyRepo
 Test
+değişikli yapıldı.
