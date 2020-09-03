@@ -6,7 +6,8 @@ namespace MyRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+           Araba arb =new Araba();
+           arb.GazaBas();
         }
     }
 }
