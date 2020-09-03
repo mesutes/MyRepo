@@ -1,0 +1,13 @@
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.exe
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.deps.json
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.runtimeconfig.json
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.runtimeconfig.dev.json
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.dll
+C:\MyRepo\MyRepo\bin\Debug\netcoreapp3.1\MyRepo.pdb
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.csprojAssemblyReference.cache
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.AssemblyInfoInputs.cache
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.AssemblyInfo.cs
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.csproj.CoreCompileInputs.cache
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.dll
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.pdb
+C:\MyRepo\MyRepo\obj\Debug\netcoreapp3.1\MyRepo.genruntimeconfig.cache
